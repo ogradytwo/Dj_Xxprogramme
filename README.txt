@@ -1,3 +1,1 @@
-This contains files downloaded from ogradydev on pyany and consisted
-of the djg tutorial, but has been amended to be the a development version of the og
-website.
+Derived from Dj_Ogprogramme on 20/08/15, but is to be developed as a generic site with user logins to events.
